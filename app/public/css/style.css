@@ -1,0 +1,133 @@
+.audienti_input_feild{
+	width:100%;
+	height:35px;
+	border-radius:4px;
+	padding:5px;
+	font-size:16px;
+}
+
+.audienti_title_feild{
+	font-size:14px;
+	padding-top:15px;
+	padding-bottom:5px;
+	font-weight:600;
+	color:#444c;
+}
+
+.audienti_input{
+ border-radius:5px;
+ padding:30px;
+ margin:20px;
+ background:#fff;
+}
+.audienti_menu_html{
+	margin-left:25px;
+	margin-top:40px;
+}
+.audienti_menu_item_active, .sl_menu_item:hover{
+	background-color:#05370699;
+	color:#fff;
+	padding:5px;
+	text-decoration:none;
+	border-radius:2px;
+}
+.audienti_menu_item, .sl_menu_item:hover{
+	background-color:gray;
+	color:#fff;
+	padding:10px;
+	text-decoration:none;
+	border-radius:2px;
+}
+.audienti_main_title{
+	font-size:1.8em;
+	color:#0089a4;
+}
+.audienti_sub_title{
+	font-size:1.1em;
+	color:#038ba6;
+	font-weight:600;
+	padding:20px 30px;
+	border-top:1px solid #038ba6;
+	border-bottom:1px solid #038ba6;
+}
+.audienti_house_keeping{
+	background:#808080e6;
+	padding:15px;
+}
+.audienti_house_keeping_link, .sl_house_keeping{
+	color:#fff;
+	text-decoration:none;
+}
+.audienti_list_name{
+	font-weight:600;
+	color:#444c;
+}
+.audienti_list_table{
+	border-bottom:1px solid #038ba6;
+	padding-bottom:15px;
+}
+.audienti_title_feild td{
+	padding:10px 25px;
+}
+.audienti_dash_link{
+	min-height:40px;
+	float:left;
+	color:#fff;
+	padding:30px;
+	font-size:30px;
+	min-width:18%;
+}
+.audienti_add_node{
+	padding:5px 30px;
+	border-radius:5px;
+}
+.audienti_close_recipient_class, .audienti_close_url_class, .audienti_close_args_class{
+	cursor:pointer;
+}
+.audienti_menu_item_a{
+	padding:20px;
+	color:#fff;
+	text-decoration:none;
+}
+#audienti_webhook_input{
+	
+}
+
+#audienti_webhook_tags{
+	float:left;	
+	padding:60px 50px;
+	background:#fff;
+	margin-top:20px;
+	border-radius:5px;
+}
+
+#audienti_webhook_input{
+	float:left;	
+	padding:30px;
+	width:60%;
+}
+.adienienti_tag_copier_body {
+	cursor: pointer;
+}
+.audienti_post_tags, .audienti_wpf_tags, .audienti_gf_tags, .audienti_acf_tags, .audienti_cpt_tags, .audienti_events_tags,.audienti_cf7_tags, .audienti_ump_tags{
+	display:none;
+}
+#right_audienti_menu_item{
+	float:right !important;
+}
+a:active, a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+  box-shadow: none;
+}
+#final input[type=submit]{
+	padding:10px 30px;
+	border-radius:5px;
+	background-color:#05370699;
+	color:#fff;
+	border:0px;
+ }
+ code:active {
+	 border:1px red solid;
+ }
